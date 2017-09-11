@@ -1,0 +1,3 @@
+﻿ALTER DATABASE [Northwind]
+SET ENABLE_BROKER
+GO

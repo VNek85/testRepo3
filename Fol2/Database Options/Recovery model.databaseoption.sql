@@ -1,0 +1,3 @@
+﻿ALTER DATABASE [Northwind]
+SET RECOVERY FULL
+GO

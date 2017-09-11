@@ -1,0 +1,3 @@
+﻿ALTER DATABASE [Northwind]
+SET AUTO_CLOSE OFF
+GO

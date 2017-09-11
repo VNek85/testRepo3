@@ -1,0 +1,3 @@
+﻿ALTER DATABASE [Northwind]
+SET DB_CHAINING OFF
+GO

@@ -1,0 +1,2 @@
+﻿ALTER TABLE [dbo].[Categories2] ADD CONSTRAINT [PK_Categories2] PRIMARY KEY CLUSTERED ([CategoryID])
+GO

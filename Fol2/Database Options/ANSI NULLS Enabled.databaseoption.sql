@@ -1,0 +1,3 @@
+﻿ALTER DATABASE [Northwind]
+SET ANSI_NULLS OFF
+GO
