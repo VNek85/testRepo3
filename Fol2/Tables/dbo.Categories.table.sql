@@ -3,6 +3,7 @@
 	[CategoryName]		[nvarchar](15)	 COLLATE Cyrillic_General_CI_AS NOT NULL,
 	[Description]		[ntext]			 COLLATE Cyrillic_General_CI_AS NULL,
 	[Picture]			[image]			 NULL,
-	[a]					[int]			 NULL
+	[a]					[int]			 NULL,
+	[b]					[int]			 NULL
 ) ON [PRIMARY]
 GO
